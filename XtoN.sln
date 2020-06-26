@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30224.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XtoN", "XtoN.csproj", "{4480D409-5E3E-4BAC-9687-AE37CEF0616B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4480D409-5E3E-4BAC-9687-AE37CEF0616B}.Debug|x64.ActiveCfg = Debug|x64
+		{4480D409-5E3E-4BAC-9687-AE37CEF0616B}.Debug|x64.Build.0 = Debug|x64
+		{4480D409-5E3E-4BAC-9687-AE37CEF0616B}.Release|x64.ActiveCfg = Release|x64
+		{4480D409-5E3E-4BAC-9687-AE37CEF0616B}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EACB185E-DA9C-46B1-929C-291527C229C8}
+	EndGlobalSection
+EndGlobal
