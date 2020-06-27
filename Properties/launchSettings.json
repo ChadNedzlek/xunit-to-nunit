@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "XtoN": {
+      "commandName": "Project",
+      "commandLineArgs": "D:\\github\\arcade-services\\src"
+    }
+  }
+}
